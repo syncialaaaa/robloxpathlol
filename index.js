@@ -2,7 +2,7 @@ import express from "express";
 const app = express();
 
 const PORT = process.env.PORT || 8080;
-const SECRET_KEY = "DQOWHDIUQWHIQUWHDWQIUDHQWIUDHQWHDQWIUFHQIFQ";
+const SECRET_KEY = "ULLGXGGPDSHDVUKIERWQFDADRGWAAMFGFVWYMNILMFK";
 
 app.use(express.json());
 
